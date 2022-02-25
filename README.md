@@ -3,7 +3,7 @@
 This is CMPUT 690(data mining course) assignment. This assignment is about mining for association rules. We are asked to implement the `Apriori algorithm` as published in the paper:
 
 Rakesh Agrawal, Ramakrishnan Srikant, Fast Algorithms for Mining Association Rules, (Proc. 20th Int. Conf. Very Large Data Bases, VLDB, 1994).
-Link to the paper: [http://rakesh.agrawal-family.com/papers/vldb94apriori.pdf][Click Here.]
+Link to the paper: [Click Here.](http://rakesh.agrawal-family.com/papers/vldb94apriori.pdf)
 
 ```sh
 Ck: Candidate itemset of size k
