@@ -1,0 +1,30 @@
+10k transactions
+----------------------------------
+2044.564774 s
+Number of frequent 1_itemsets: 472
+Number of frequent 2_itemsets: 24156
+Number of frequent 3_itemsets: 8171
+Number of frequent 4_itemsets: 3817
+Number of frequent 5_itemsets: 2339
+Number of frequent 6_itemsets: 1117
+Number of frequent 7_itemsets: 407
+Number of frequent 8_itemsets: 111
+Number of frequent 9_itemsets: 21
+Number of frequent 10_itemsets: 2
+Number of association rules: 162045
+
+
+1k transactions
+----------------------------------
+9.76993 s
+Number of frequent 1_itemsets: 334
+Number of frequent 2_itemsets: 174
+Number of strong association rules: 0
+
+
+100 transactions
+----------------------------------
+0.012373 s
+Number of frequent 1_itemsets: 10
+Number of strong association rules: 0
+
